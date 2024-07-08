@@ -6,4 +6,3 @@ const instance = axios.create({
 
 export default instance;
 
-// https://api.themoviedb.org/3/trending/all/week?api_key=56084ce3c6401afd82ed00d30d04ebb2&language=en-US
